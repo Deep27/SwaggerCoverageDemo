@@ -1,0 +1,1 @@
+rm -v ./swagger-coverage-output/*
